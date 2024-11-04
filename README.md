@@ -6,11 +6,7 @@ An application developed to streamline member management and gym administration 
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
